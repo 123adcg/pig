@@ -1,0 +1,41 @@
+@charset 'utf-8'
+     body{font-size:16px;
+         color:deepskyblue;}
+    h1{font-align:center;
+     font-family:'����Ҧ�壬���壬����'��
+     font-size:20px;
+     font-weight:bold;
+	 color:slateblue;}
+    h2{font-align:center;
+     font-family:'���壻'
+     font-size:16px;
+     font-weight:normal;
+	 color:#099;}
+    p{line-height:2em;}
+    .nav{backgroud-color:#9F0;
+     margin-left:15%;
+	 margin-right:15%;
+	 font-align:center;
+	 font-size:18px;
+     }
+    .copyright{font-align:center;
+           margin-bottom:10px;
+}
+	.div1{
+    width:0;
+	height:0;
+	border:10px solid transparent;
+	border-top-color:#333;
+}
+
+div{width: 80%;
+			margin-bottom: 0px auto 0px auto;
+			padding: 5px 20px 5px 20px;
+			background-color:bisque
+	min-height:700px;}
+li{height:30px;
+   line-height:30px;
+	list-style-image: none;
+border-bottom:2px solid pink;}
+
+
